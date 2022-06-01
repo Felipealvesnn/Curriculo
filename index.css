@@ -27,3 +27,11 @@ body{
     text-align: center;
 
 }
+
+@media (max-width: 851px) {
+
+    .imagem3{
+    height: 100%;
+    width: 100%;
+    }
+}
